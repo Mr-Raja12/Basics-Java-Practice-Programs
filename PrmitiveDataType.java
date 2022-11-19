@@ -17,6 +17,5 @@ public class PrmitiveDataType {
 		System.out.println("float "+f);
 		System.out.println("char "+ch);
 		System.out.println("boolean "+b1);
-
 	}
 }
