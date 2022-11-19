@@ -4,7 +4,7 @@ public class PrmitiveDataType {
 	static byte b;
 	static short s;
 	static long l;
-	static double d;    //initialized the all Data types a static so there is no need of object for the same
+	static double d; //initialized the all Data types a static so there is no need of object for the same
 	static float f;
 	static char ch;
 	static boolean b1;
